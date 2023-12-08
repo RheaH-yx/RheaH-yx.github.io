@@ -1,22 +1,24 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Unitary Decomposition of Matrics into Quantum Gates
+summary: Implementation and evaluation of three unitary decomposition algorithms for translating a unitary matrix into a series of quantum gates that can be executed on a quantum computer
+
+
 tags:
-  - Deep Learning
-date: '2016-04-27T00:00:00Z'
+  - Quantum Computing
+date: '2023-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+external_link: 'https://github.com/RheaH-yx/decomposition_evaluation'
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Qiskit decomposition
   focal_point: Smart
 
 links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+  # - icon: twitter
+  #   icon_pack: fab
+  #   name: Follow
+  #   url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
 url_slides: ''
